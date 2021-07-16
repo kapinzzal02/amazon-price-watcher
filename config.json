@@ -1,0 +1,10 @@
+{
+    "url":"AMAZON LINK",
+    "budget":"BUDGET",
+    "interval":43200,
+    "method":"Email/Telegram",
+    "email_address":"YOUR E-MAIL ADDRESS",
+    "email_password":"YOUR APP PASSWORD",
+    "telegram_id":"TELEGRAM ID",
+    "telegram_token":"TELEGRAM BOT's TOKEN"
+}
